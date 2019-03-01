@@ -1,0 +1,5 @@
+{
+  "TestCases/test_pytest.py": true,
+  "TestCases/test_requests.py": true,
+  "TestCases/test_searchMeeting.py": true
+}
